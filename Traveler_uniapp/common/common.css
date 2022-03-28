@@ -1,0 +1,59 @@
+.scroll-h {
+	width: 750rpx;
+	/* #ifdef H5 */
+	width: 100%;
+	/* #endif */
+	height: 80rpx;
+	flex-direction: row;
+	/* #ifndef APP-PLUS */
+	white-space: nowrap;
+	/* #endif */
+	/* flex-wrap: nowrap; */
+	/* border-color: #cccccc;
+		border-bottom-style: solid;
+		border-bottom-width: 1px; */
+}
+
+.uni-tab-item {
+	/* #ifndef APP-PLUS */
+	display: inline-block;
+	/* #endif */
+	flex-wrap: nowrap;
+	padding-left: 34rpx;
+	padding-right: 34rpx;
+}
+
+.uni-tab-item-title {
+	color: #555;
+	font-size: 30rpx;
+	height: 80rpx;
+	line-height: 80rpx;
+	flex-wrap: nowrap;
+	/* #ifndef APP-PLUS */
+	white-space: nowrap;
+	/* #endif */
+}
+
+.uni-tab-item-title-active {
+	color: #007aff;
+}
+
+.line-h {
+	height: 1rpx;
+	background-color: #cccccc;
+}
+
+/* 登录页面、编辑、新增页面的表单 */
+.uni-forms {
+	padding: 40px 15px;
+}
+
+/* 详细信息页面，列表插槽 */
+.key {
+	width: 40%;
+}
+
+.value {
+	width: 60%;
+	border-bottom: 1rpx solid #e6e6e6;
+}

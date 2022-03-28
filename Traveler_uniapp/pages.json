@@ -1,0 +1,395 @@
+{
+	"pages": [
+		//pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+		    "path" : "pages/JudeLoginPage/JudeLoginPage",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "Traveler",
+				"enablePullDownRefresh": false,
+				"navigationStyle" : "custom"
+		    }
+		    
+		},
+		{
+		    "path" : "pages/Login/Login",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "Traveler",
+		        "enablePullDownRefresh": true
+		    }
+		    
+		},
+		{
+		    "path" : "pages/Login/forget",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "Traveler",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		{
+		    "path" : "pages/Login/register",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "Traveler",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		{
+			"path": "pages/tabbar/tabbar-1/tabbar-1",
+			"style": {
+				"navigationBarTitleText": "Traveler",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/tabbar/tabbar-2/tabbar-2",
+			"style": {
+				"navigationBarTitleText": "Traveler",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/tabbar/tabbar-3/tabbar-3",
+			"style": {}
+		},
+		{
+			"path": "pages/tabbar/tabbar-4/tabbar-4",
+			"style": {}
+		},
+		{
+			"path": "pages/tabbar/tabbar-5/tabbar-5",
+			"style": {}
+		},
+		{
+			"path": "pages/tabbar-3-detial/tabbar-3-release/tabbar-3-release",
+			"style": {
+				"navigationBarTitleText": "发图文",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/tabbar-3-detial/tabbar-3-video/tabbar-3-video",
+			"style": {
+				"navigationBarTitleText": "发行程",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/tabbar-3-detial/tabbar-3-qa/tabbar-3-qa",
+			"style": {
+				"navigationBarTitleText": "发地点",
+				"enablePullDownRefresh":true
+			}
+		}
+        ,{
+            "path" : "pages/tabbar/tabbar-1/CityChoice",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "选择城市/CityChoice",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/tabbar-3-detial/Notice/Notice",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "发广播",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/tabbar-3-detial/Team/Team",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "发组队",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/tabbar/tabbar-1/blog",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		,{
+		    "path" : "pages/tabbar/tabbar-1/place",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/Trip/Trip",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "行程",
+                "enablePullDownRefresh":true
+            }
+            
+        }
+        ,{
+            "path" : "pages/Trip/PlacePlay",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "景玩",
+                "enablePullDownRefresh":true
+            }
+            
+        }
+        ,{
+            "path" : "pages/Trip/PlaceHotel",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "住宿",
+                "enablePullDownRefresh":true
+            }
+            
+        }
+        ,{
+            "path" : "pages/Trip/PlaceEat",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "餐食",
+                "enablePullDownRefresh":true
+            }
+            
+        }
+        ,{
+            "path" : "pages/Trip/PlaceGo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "出行",
+                "enablePullDownRefresh":true
+            }
+            
+        }
+        ,{
+            "path" : "pages/User/User",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "个人中心",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/User/MyBlog",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的博文",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/User/MyTrip",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的行程",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/User/MyPlace",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的词条",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/User/Collect",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "收藏列表",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/User/Praise",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "点赞列表",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/User/Follow",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "关注列表",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/User/Notice",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "公告",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/User/Sys",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "设置",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/tabbar/tabbar-1/trip",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"onReachBottomDistance": 20
+            }
+            
+        }
+        ,{
+            "path" : "pages/tabbar/tabbar-1/addtrip",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/Eider/Eider",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/Eider/TripEider",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/Eider/PlaceInTrip",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/Eider/BlogEider",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/Eider/PlaceEider",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/User/UserSelf",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/tabbar-3-detial/tabbar-3-release/TripInBlog",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "关联行程",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "Traveler",
+		"navigationBarBackgroundColor": "#b3ccd0",
+		"backgroundColor": "#b3ccd0"
+	},
+	"tabBar": {
+		"borderStyle": "black",
+		"backgroundColor": "#333",
+		"color": "#8F8F94",
+		"selectedColor": "#b3ccd0",
+		"list": [{
+				"pagePath": "pages/tabbar/tabbar-1/tabbar-1",
+				"iconPath": "static/img/tabbar/home.png",
+				"selectedIconPath": "static/img/tabbar/homeactive.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/tabbar/tabbar-2/tabbar-2",
+				"iconPath": "static/img/tabbar/guanzhu.png",
+				"selectedIconPath": "static/img/tabbar/guanzhuactive.png",
+				"text": "关注"
+			},
+			//#ifdef MP-WEIXIN
+			{
+				"pagePath": "pages/tabbar/tabbar-3/tabbar-3",
+				"iconPath": "static/img/tabbar/add.png",
+				"selectedIconPath": "static/img/tabbar/addactive.png",
+				"text": "发布"
+			},
+			//#endif
+			//#ifndef MP-WEIXIN
+			{
+				"pagePath": "pages/tabbar/tabbar-3/tabbar-3",
+				"iconPath": "static/img/tabbar/add.png",
+				"selectedIconPath": "static/img/tabbar/addactive.png",
+				"text": "发布"
+			},
+			//#endif
+			// {
+			// 	"pagePath": "pages/tabbar/tabbar-4/tabbar-4",
+			// 	"iconPath": "static/img/tabbar/news.png",
+			// 	"selectedIconPath": "static/img/tabbar/newsactive.png",
+			// 	"text": "消息"
+			// },
+			{
+				"pagePath": "pages/tabbar/tabbar-5/tabbar-5",
+				"iconPath": "static/img/tabbar/me.png",
+				"selectedIconPath": "static/img/tabbar/meactive.png",
+				"text": "我"
+			}
+		]
+	}
+}

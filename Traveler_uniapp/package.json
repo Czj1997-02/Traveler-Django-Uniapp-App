@@ -1,0 +1,16 @@
+{
+    "id": "song-data-picker",
+    "name": "基于DataPicker（uni-data-picker）的带有搜索功能的选择器",
+    "version": "0.1.3",
+    "description": "在uni官方的DataPicker（uni-data-picker）基础上添加搜索功能",
+    "keywords": [
+        "picker",
+        "级联",
+        "省市区",
+        "地址",
+        "搜索"
+    ],
+    "dependencies": {
+        "water-deng": "^1.0.7"
+    }
+}
