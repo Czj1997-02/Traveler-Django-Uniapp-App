@@ -1,10 +1,7 @@
-> 访问人数 Number of visits
-
-![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{Open-Traveler})
-
----
-
 # Online-Traveler
+[![slack](https://img.shields.io/badge/Eatqi%20Online-gray.svg?longCache=true&colorB=brightgreen)](https://www.eatqionline.top/)
+[![slack](https://img.shields.io/badge/A8A8A8-gray.svg?longCache=true&colorB=brightgreen)](http://a8a8a8.top/)
+
 Online-Traveler是一款旅行分享应用，用户能够自主的创建景点词条信息，创建行程关联多个景点形成攻略，也可以发布图文博客来关联攻略或者景点，让我们的旅行变得更加的简单。
 
 Online traveler is a travel sharing application. Users can independently create scenic spot entry information, create trips, associate multiple scenic spots to form strategies, or publish graphic blogs to associate strategies or scenic spots, making our travel easier.
@@ -62,3 +59,9 @@ If you have any questions, you can add my wechat and contact me.
 You can choose to buy me a cup of coffee ☕
 
 <img src="img/1648462334797.jpg" width="180" ><img src="img/mm_facetoface_collect_qrcode_1648461035614.png" width="180" />
+
+---
+
+> 访问人数 Number of visits
+
+![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{Open-Traveler})
