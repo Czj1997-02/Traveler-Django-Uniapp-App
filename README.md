@@ -60,8 +60,3 @@ You can choose to buy me a cup of coffee ☕
 
 <img src="img/1648462334797.jpg" width="180" ><img src="img/mm_facetoface_collect_qrcode_1648461035614.png" width="180" />
 
----
-
-> 访问人数 Number of visits
-
-![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{Open-Traveler})
